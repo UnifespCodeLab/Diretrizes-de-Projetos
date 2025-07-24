@@ -66,6 +66,6 @@ Mas, mantendo em português palavras com relação direta às regras de negócio
 
 ## **Boas Práticas**
 
-1.  Coordenador do projeto
+1.  Seguir princípios de projeto de engenharia de software
 
 
